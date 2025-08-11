@@ -63,10 +63,3 @@ vite-react-min/
 ## 📜 License
 
 MIT License — free to use, modify, and share.
-
-```
-
----
-
-If you want, I can also **add a “Screenshot” section** showing the clean `Hello World` starter page so people see what they get before cloning. That can make the repo even more appealing.
-```
