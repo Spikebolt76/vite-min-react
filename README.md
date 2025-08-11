@@ -38,7 +38,8 @@ vite-react-min/
 ├── package.json
 ├── vite.config.js
 ├── jsconfig.json
-├── public
+├── public/
+│   └── favicon.svg
 └── src/
     ├── App.jsx
     ├── main.jsx
